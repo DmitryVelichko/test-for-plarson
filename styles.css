@@ -17,10 +17,6 @@
   display: flex;
 }
 
-h3 {
-  text-align: center;
-}
-
 .main-section__header {
   display: flex;
   border: 1px solid red;
@@ -40,6 +36,7 @@ h3 {
 }
 
 .main-section__footer {
+  display: flex;
   min-height: 100px;
   border: 1px solid green;
 }
