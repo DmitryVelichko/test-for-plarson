@@ -30,7 +30,7 @@
 }
 
 .wrapper__chat {
-  flex-basis: 90%;
+  flex: 1;
   overflow-y: scroll;
   border: 1px solid purple;
 }
